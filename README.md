@@ -28,7 +28,6 @@ BP Smart Feed Curator intelligently re-ranks BuddyPress activity feeds based on 
 
 ![Smart Feed Working](assets/images/smartfeed-working.png)
 
-*Above: Comparison showing Smart Feed (left) vs Standard Feed (right). Smart Feed prioritizes engaging content based on likes, comments, and shares.*
 
 ## 🚀 Installation & Setup
 
